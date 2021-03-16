@@ -3,6 +3,7 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+__init__.py
 
 # Other files and folders
 .settings/
